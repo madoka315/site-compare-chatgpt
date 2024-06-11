@@ -39,5 +39,5 @@
 | 智能AI助手 | 订阅: 50元/月不限次GPT4T<br>捐赠: 0.1元/次 GPT4官网、Claude3 (满30元赠API) | chat.tinycms.xyz:3002 | GPT4T、Claude3 | 免费每日10次GPT4T |
 | Rawchat | 订阅: 49元/月专属共享账号<br>订阅: 3元/天专属共享账号 | sharedchat.cn| GPT4官网 | 有免费共享账号 |
 | 试试威力AI | 订阅: 50元/月不限次GPT4(具体不详) | oai.aivipol.com | GPT4(具体不详) | 免费33次GPT4(具体不详) |
-| Aitianhu | 捐赠: 30元/月不限次GPT4T | d2v2z6.aitianhu1.top | - | 无 |
+| Aitianhu | 捐赠: 30元/月不限次GPT4T | d2v2z6.aitianhu1.top | GPT4T | 无 |
 | AI问答宝 | 订阅: 18.88元/月共享账号 | ai.wendabeta.net | GPT4官网 | 无 |
