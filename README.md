@@ -41,3 +41,4 @@
 | 试试威力AI | 订阅: 50元/月不限次GPT4(具体不详) | oai.aivipol.com | GPT4(具体不详) | 免费33次GPT4(具体不详) |
 | Aitianhu | 捐赠: 30元/月不限次GPT4T | d2v2z6.aitianhu1.top | GPT4T | 无 |
 | AI问答宝 | 订阅: 18.88元/月共享账号 | ai.wendabeta.net | GPT4官网 | 无 |
+| **特殊**Coze(GLOBAL) | API按量计费 | coze.com | GPT4T | 免费使用web端 |
